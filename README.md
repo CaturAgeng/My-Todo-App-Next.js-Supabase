@@ -1,6 +1,6 @@
 <div align="center" id="top"> </div>
 
-This is the link for the application that has been deployed [`My-Todo-App-Next.js-Supabase`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is the link for the application that has been deployed [`My-Todo-App-Next.js-Supabase`](https://my-todo-app-next-js-supabase.vercel.app/).
 
 ## :dart: Project Overview
 
